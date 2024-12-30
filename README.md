@@ -11,7 +11,7 @@ This is a tool for gathering resources in Call of Dragons. The bot automates sen
 - Press `Q` to stop the bot at any time.
 
 ## How to Use
-1. Download the executable (`bot_with_gui.exe`) from this repository and store this in a directory of your choice.
+1. Download the executable (`Auto_Gather.exe`) from this repository and store this in a directory of your choice.
 2. Place the following folders in the same directory as the executable:
    - `buttons/`
    - `resources/`
